@@ -7,6 +7,6 @@
 
 - 👯 I’m looking to collaborate on projects related to AI and application development.
 
-- 📫 How to reach me: jgq326@gmail.com  
+- 📫 How to reach me: jgq325@gmail.com  
 
 - ⚡ Fun fact: I’m passionate about sports and data.
