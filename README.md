@@ -1,5 +1,7 @@
 ## Hi, I'm Julián! 👋
 
+![Desarrollador de Software](https://postimg.cc/WhTp0vRs)
+
 <!--
 **Juliangar2503/Juliangar2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
