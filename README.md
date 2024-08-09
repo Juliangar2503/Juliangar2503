@@ -1,6 +1,6 @@
 ## Hi, I'm Julián! 👋
 
-![Desarrollador de Software](https://postimg.cc/WhTp0vRs)
+[![Banner-Linkedin-Profesional-Corporativo-Verde.png](https://i.postimg.cc/GhsBwLqT/Banner-Linkedin-Profesional-Corporativo-Verde.png)](https://postimg.cc/WhTp0vRs)
 
 <!--
 **Juliangar2503/Juliangar2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
