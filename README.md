@@ -2,11 +2,11 @@
 
 [![Banner-Linkedin-Profesional-Corporativo-Verde.png](https://i.postimg.cc/GhsBwLqT/Banner-Linkedin-Profesional-Corporativo-Verde.png)](https://postimg.cc/WhTp0vRs)
 
-# Sobre mi
-- 🔭 Actualmente estoy desarrollando un curso de Python y Machine Learning para expandir mis habilidades y conocimientos.
+# About Me
+- 🔭 I’m currently developing a Python and Machine Learning course to expand my skills and knowledge.
 
-- 👯 Estoy buscando colaborar en proyectos relacionados con IA y desarrollo de aplicaciones.
+- 👯 I’m looking to collaborate on projects related to AI and application development.
 
-- 📫 Cómo contactarme: jgq326@gmail.com  
+- 📫 How to reach me: jgq326@gmail.com  
 
-- ⚡ Curiosidad: Me encanta el mundo del deporte y los datos.
+- ⚡ Fun fact: I’m passionate about sports and data.
