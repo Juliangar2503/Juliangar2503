@@ -8,15 +8,18 @@ Soy un desarrollador full stack apasionado por crear aplicaciones web modernas y
 # 🚀 Tecnologías Principales  
 
 ### 🔧 Desarrollo Backend  
-- **Node.js:** Creación de APIs RESTful y microservicios escalables.  
-- **Express.js:** Desarrollo rápido de aplicaciones web.  
+- **Node.js:** Creación de APIs RESTful y microservicios escalables con expressJs y nestJs.
 - **Bases de Datos:** MongoDB, PostgreSQL, MySQL.  
 
 ### 🎨 Desarrollo Frontend  
 - **Angular:** Aplicaciones web dinámicas y responsivas.  
-- **Tecnologías Adicionales:** HTML5, CSS3, TypeScript, Bootstrap.  
+- **Tecnologías Adicionales:** HTML5, CSS3.  
 
 ### 📚 Lenguajes de Programación Adicionales  
-- **Python:** Desarrollo web, automatización y análisis de datos.  
+- **Python:** Desarrollo web, automatización y análisis de datos.
+
+#  📫 ¡Conéctate Conmigo!
+### LinkedIn: TuPerfilLinkedIn
+### Correo Electrónico: tuemail@ejemplo.com
 
 
