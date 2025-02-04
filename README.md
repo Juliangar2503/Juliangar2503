@@ -12,7 +12,7 @@ Soy un desarrollador full stack apasionado por crear aplicaciones web/móvil mod
 - **Bases de Datos:** MongoDB, PostgreSQL, MySQL.  
 
 ### 🎨 Desarrollo Frontend  
-- **Angular:** Aplicaciones web dinámicas y responsivas.  
+- **Angular y React:** Aplicaciones web dinámicas y responsivas.  
 - **Tecnologías Adicionales:** Ionic.  
 
 ### 📚 Lenguajes de Programación Adicionales  
